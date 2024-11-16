@@ -1,0 +1,14 @@
+.body-gray{
+  background-color: #939394 !important;
+}
+.blackk{
+  color: black;
+}
+.rounded-circle{
+  width: 43px;
+}
+.men-thumb-item{
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
